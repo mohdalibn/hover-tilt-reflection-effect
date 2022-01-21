@@ -4,3 +4,42 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Css for the body of the html */
+body {
+    margin: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Css for the top gradient container */
+.top-gradient-container {
+    width: 100vw;
+    height: 65vh;
+    background: radial-gradient(circle, rgb(22, 20, 20), rgb(0, 0, 0) 100%);
+}
+
+
+/* Css for the bottom gradient container */
+.bottom-gradient-container {
+    width: 100vw;
+    height: 35vh;
+    background: radial-gradient(circle, rgb(22, 20, 20), rgb(0, 0, 0) 100%);
+}
+
+
+/* Css for the image container */
+.image-container {
+    position: absolute;
+    margin-top: -140px;
+}
+
+
+/* Css for the main image of the project */
+.main-image {
+    width: 350px;
+    -webkit-box-reflect: below 20px linear-gradient(transparent, #0004, #0004);
+}
