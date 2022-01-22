@@ -19,11 +19,17 @@
         <img class="main-image" src="imgs/PhoneImage1.png" alt="Image of an Iphone">
     </div>
     
-    <!-- Linking the reflection.js file -->
-    <script src="js/reflection.js"></script>
 
     <!-- Linking the vanilla-tilt.js file -->
     <script src="js/vanilla-tilt.js"></script>
+
+    <script type="text/javascript">
+        VanillaTilt.init(document.querySelector(".image-container"), {
+            max: 25,
+            speed: 200,
+            scale: 1.1
+        });
+    </script>
 
 </body>
 </html>
