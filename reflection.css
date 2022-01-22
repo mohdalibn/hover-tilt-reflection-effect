@@ -19,7 +19,7 @@ body {
 /* Css for the top gradient container */
 .top-gradient-container {
     width: 100vw;
-    height: 65vh;
+    height: 70vh;
     background: radial-gradient(circle, rgb(22, 20, 20), rgb(0, 0, 0) 100%);
 }
 
@@ -27,7 +27,7 @@ body {
 /* Css for the bottom gradient container */
 .bottom-gradient-container {
     width: 100vw;
-    height: 35vh;
+    height: 30vh;
     background: radial-gradient(circle, rgb(22, 20, 20), rgb(0, 0, 0) 100%);
 }
 
@@ -35,12 +35,12 @@ body {
 /* Css for the image container */
 .image-container {
     position: absolute;
-    margin-top: -140px;
+    margin-top: -15%;
 }
 
 
 /* Css for the main image of the project */
 .main-image {
     width: 350px;
-    -webkit-box-reflect: below 20px linear-gradient(transparent, #0004, #0004);
+    -webkit-box-reflect: below 40px linear-gradient(transparent, #0004, #0004);
 }
