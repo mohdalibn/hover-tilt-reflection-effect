@@ -21,6 +21,11 @@ body {
     width: 100vw;
     height: 70vh;
     background: radial-gradient(circle, rgb(22, 20, 20), rgb(0, 0, 0) 100%);
+    /* padding-top: 3rem; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: end;
 }
 
 
@@ -34,13 +39,14 @@ body {
 
 /* Css for the image container */
 .image-container {
-    position: absolute;
-    margin-top: -15%;
+    /* position: absolute; */
+    /* margin-top: 2rem; */
+    margin-bottom: 1rem;
 }
 
 
 /* Css for the main image of the project */
 .main-image {
-    width: 350px;
-    -webkit-box-reflect: below 40px linear-gradient(transparent, #0004, #0044);
+    width: 180px;
+    -webkit-box-reflect: below 80px linear-gradient(transparent, #0004, #0044);
 }

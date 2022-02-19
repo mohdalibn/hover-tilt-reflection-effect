@@ -8,16 +8,18 @@
     <!-- Linking the reflection.css file -->
     <link rel="stylesheet" href="reflection.css">
 
-    <title>Hover Reflection Effect</title>
+    <title>Hover Tilt Reflection Effect</title>
 </head>
 <body>
 
     <!-- The main html code of this project are these few lines below -->
-    <div class="top-gradient-container"></div>
-    <div class="bottom-gradient-container"></div>
-    <div class="image-container">
-        <img class="main-image" src="imgs/PhoneImage1.png" alt="Image of an Iphone">
+    <div class="top-gradient-container">
+        <div class="image-container">
+            <img class="main-image" src="imgs/PhoneDemo.png" alt="Image of an Iphone Mockup With My Website">
+        </div>
     </div>
+    <div class="bottom-gradient-container"></div>
+    
     
 
     <!-- Linking the vanilla-tilt.js file -->
@@ -27,7 +29,7 @@
         VanillaTilt.init(document.querySelector(".image-container"), {
             max: 25,
             speed: 200,
-            scale: 1.1,
+            // scale: 1.1,
             transition: true,
         });
     </script>
