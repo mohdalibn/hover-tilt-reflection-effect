@@ -42,5 +42,5 @@ body {
 /* Css for the main image of the project */
 .main-image {
     width: 350px;
-    -webkit-box-reflect: below 40px linear-gradient(transparent, #0004, #0004);
+    -webkit-box-reflect: below 40px linear-gradient(transparent, #0004, #0044);
 }
