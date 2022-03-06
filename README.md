@@ -15,3 +15,8 @@
 
 <!-- How to Use -->
 # ![how-to-use-project](https://user-images.githubusercontent.com/95453430/156912481-9b05806d-d2f4-44e4-b9ad-790fef836109.svg)
+
+-  Click on the green **Code** at the top of this page and download the repository zip file.
+-  Extract the contents of the zip onto a folder accesable to you on your local machine.
+-  Open the folder, and click on the reflection.html file to run the project. (Google Chrome Recommended)
+-  Enjoy using the project!
