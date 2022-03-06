@@ -6,7 +6,7 @@
 <!-- Project Description -->
 # ![project-description (6)](https://user-images.githubusercontent.com/95453430/156912507-fc134024-1161-4866-bca9-ecf69fe4a551.svg)
 
-This is an **Interractive Front-End Project** where the user can **hover over** the mock image to produce a **Real-time tilt effect** on it as well as its **reflection**. This cool **Interractive Tilt Animation** is achieved with the help of a **JavaScript Plugin** known as **Tilt Js**. The project was designed and styled using **Html and Css**.
+This is an **Interractive Front-End Project** where the user can **hover over** the mock image to produce a **Real-time tilt effect** on it as well as its **reflection**. This cool **Interractive Tilt Animation** is achieved with the help of a **JavaScript Plugin** known as **Tilt Js**. The project was designed and styled using **Html and Css**. The **Image** used on the phone mockup is from my **personal website's responsive mobile view mockup**.
  
 <!-- Project Tech Stack -->
 # ![technologies-used (5)](https://user-images.githubusercontent.com/95453430/156912492-2ce6d1e6-fc46-4e37-ba13-a300538cdd9b.svg)
